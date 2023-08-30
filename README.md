@@ -1,9 +1,10 @@
 <p align="center">Eu ❤️ solucionar desafios e desafiar a mim mesma usando tecnologia. <br><br> Sou apaixonada por aprender novos materiais e utilizá-los para criar soluções de alta qualidade. Hoje, sou uma Desenvolvedora Front-end Junior com foco em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=naieliloeblein1&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=naieliloeblein1&theme=radical&mode=weekly" /><br/>
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=naieliloeblein1&show_icons=true&theme=radical&layout=compact" />
  </div>
- 
+
  &nbsp;
  &nbsp;
 
