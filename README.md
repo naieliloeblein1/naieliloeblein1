@@ -4,7 +4,7 @@
 
 <p align="left">Tenho 20 anos, sou <strong>Desenvolvedora Front-end</strong> e atualmente estou cursando Ciência da Computação pela Unochapecó, em SC. 
  
- Eu ❤️ solucionar desafios e desafiar a mim mesma usando tecnologia. 
+ Adoro solucionar desafios e desafiar a mim mesma usando tecnologia. 
 
  Estou sempre em busca de novas oportunidades, procuro o crescimento constante, criando soluções de alta qualidade e evoluindo como pessoa e profissional. Caso tenha interesse em colaborar ou compartilhar ideias, entre em contato comigo, adorarei conhecê-lo(a)!
  
