@@ -6,7 +6,9 @@
  
  Adoro solucionar desafios e desafiar a mim mesma usando tecnologia. 
 
- Estou sempre em busca de novas oportunidades, procuro o crescimento constante, criando soluções de alta qualidade e evoluindo como pessoa e profissional. Caso tenha interesse em colaborar ou compartilhar ideias, entre em contato comigo, adorarei conhecê-lo(a)!
+ Estou sempre em busca de novas oportunidades, procuro o crescimento constante, criando soluções de alta qualidade e evoluindo como pessoa e profissional. 
+ 
+ Caso tenha interesse em colaborar ou compartilhar ideias, entre em contato comigo, adorarei conhecê-lo(a)!
  
  </p>
 
