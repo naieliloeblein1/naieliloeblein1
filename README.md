@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">Tenho 20 anos, sou <strong>Desenvolvedora Front-end e Mobile,</strong> atualmente estou cursando Ciência da Computação na Unochapecó, em SC. 
+<p align="left">Tenho 21 anos, sou <strong>Desenvolvedora Front-end e Mobile,</strong> atualmente estou cursando Ciência da Computação na Unochapecó, em SC. 
  
  Adoro solucionar desafios e desafiar a mim mesma usando tecnologia. 
 
